@@ -1,2 +1,2 @@
 # mqtt
-Broker mqtt using Aedes and MongoDB
+Broker MQTT using Aedes and MongoDB
